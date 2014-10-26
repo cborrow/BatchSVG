@@ -1,0 +1,12 @@
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\BatchSVG.exe.config
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\BatchSVG.exe
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\BatchSVG.pdb
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\Svg.dll
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\Svg.pdb
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\bin\Debug\Svg.xml
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.csprojResolveAssemblyReference.cache
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.Form1.resources
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.Properties.Resources.resources
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.csproj.GenerateResource.Cache
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.exe
+c:\users\gamecenter\documents\visual studio 2010\Projects\BatchSVG\BatchSVG\obj\x86\Debug\BatchSVG.pdb
